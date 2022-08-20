@@ -209,7 +209,6 @@ window.addEventListener("load",function () {
         }
 
         ctx.beginPath();
-        ctx.arc(-size*0.3/2,size*0.3,size*0.1,0,Math.PI*2);
         ctx.fill();
 
     }
